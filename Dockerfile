@@ -1,1 +1,1 @@
-FROM mariadb:10.6.12
+FROM mcr.microsoft.com/mariadb/server:10.6
