@@ -1,1 +1,1 @@
-FROM marketplace.gcr.io/google/mariadb10:latest
+FROM public.ecr.aws/ubuntu/mariadb:10.6
