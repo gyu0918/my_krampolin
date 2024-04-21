@@ -1,1 +1,1 @@
-FROM mcr.microsoft.com/mariadb/server:10.6
+FROM marketplace.gcr.io/google/mariadb10:latest
