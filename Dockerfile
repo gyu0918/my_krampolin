@@ -1,1 +1,1 @@
-FROM public.ecr.aws/ubuntu/mariadb:10.6
+FROM public.ecr.aws/docker/library/mariadb:latest
